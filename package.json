@@ -24,7 +24,7 @@
     "react-scripts": "3.4.0"
   },
   "scripts": {
-    "dev": "react-scripts start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -47,5 +47,5 @@
   "devDependencies": {
     "npm-force-resolutions": "0.0.3"
   },
-  "homepage": "https://festive-lichterman-0dee70.netlify.app/"
+  "homepage": "https://mern-proyecto-blog-personal-front-end.now.sh/"
 }
