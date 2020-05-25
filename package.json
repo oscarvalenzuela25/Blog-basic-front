@@ -46,6 +46,5 @@
   },
   "devDependencies": {
     "npm-force-resolutions": "0.0.3"
-  },
-  "homepage": "https://mern-proyecto-blog-personal-front-end.now.sh/"
+  }
 }
