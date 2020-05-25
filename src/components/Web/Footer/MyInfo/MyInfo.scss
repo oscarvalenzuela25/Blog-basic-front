@@ -1,0 +1,17 @@
+@import "../../../../scss/index.scss";
+
+.my-info {
+  img {
+    width: 200px;
+    margin-bottom: 20px;
+  }
+
+  h4 {
+    color: $primary-color-dark;
+    margin-bottom: 20px;
+  }
+
+  .social-links {
+    justify-content: flex-start;
+  }
+}

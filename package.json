@@ -1,0 +1,51 @@
+{
+  "name": "front-web-personal",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "@tinymce/tinymce-react": "^3.5.1",
+    "antd": "^4.0.2",
+    "axios": "^0.19.2",
+    "jwt-decode": "^2.2.0",
+    "moment": "2.24.0",
+    "moment-timezone": "^0.5.28",
+    "node-sass": "^4.13.1",
+    "query-string": "^6.12.1",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-drag-sortable": "^1.0.6",
+    "react-dropzone": "^10.2.2",
+    "react-helmet": "^6.0.0",
+    "react-moment": "^0.9.7",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.0"
+  },
+  "scripts": {
+    "dev": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "npm-force-resolutions": "0.0.3"
+  },
+  "homepage": "https://festive-lichterman-0dee70.netlify.app/"
+}

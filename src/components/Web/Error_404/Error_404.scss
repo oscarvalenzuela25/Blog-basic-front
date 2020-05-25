@@ -1,0 +1,26 @@
+@import "../../../scss/index.scss";
+
+.error_404 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 700px;
+
+  svg {
+    font-size: 150px;
+    color: $primary-color-light;
+  }
+
+  h1 {
+    color: $primary-color-dark;
+    font-size: 150px;
+    margin-bottom: 0px;
+    height: 200px;
+  }
+
+  h2 {
+    color: $primary-color;
+    font-size: 40px;
+  }
+}
