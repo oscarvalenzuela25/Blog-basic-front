@@ -1,6 +1,6 @@
 import React from "react";
 //Cambiado BrowserRouter por HashRouter
-import { HashRouter as Router, Switch, Route } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import routes from "./config/routes";
 import AuthProvider from "./providers/AuthProviders";
 
