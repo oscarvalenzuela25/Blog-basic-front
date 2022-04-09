@@ -10,7 +10,7 @@
     "antd": "^4.0.2",
     "axios": "^0.19.2",
     "jwt-decode": "^2.2.0",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "moment-timezone": "^0.5.28",
     "node-sass": "^4.13.1",
     "query-string": "^6.12.1",
